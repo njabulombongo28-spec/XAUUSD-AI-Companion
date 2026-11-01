@@ -1,0 +1,2 @@
+# XAUUSD-AI-Companion
+nnm
